@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "text": {
+    "opening": "Welcome to Band 7 Radio! Subscribe for more English topics.",
+    "closing": "Subscribe for more English topics."
+  },
+  "provider": "gemini",
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Kore",
+  "delivery": "classic-long-context-v3"
+}

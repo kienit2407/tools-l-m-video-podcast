@@ -1,0 +1,14 @@
+{
+  "opening": {
+    "source": "assets/cta/38b9df551ce25797/opening.wav",
+    "operation": "unchanged copy of generated Mia audio"
+  },
+  "closing": {
+    "source": "opening.wav",
+    "start": 2.74,
+    "end": 5.16,
+    "operation": "PCM crop at the pause before Subscribe; no new TTS request"
+  },
+  "verified_words": "Welcome to Band 7 Radio. Subscribe for more English topics.",
+  "alignment": "local faster-whisper base; subscribe starts 2.88s; silence 2.4846s to 2.8320s"
+}

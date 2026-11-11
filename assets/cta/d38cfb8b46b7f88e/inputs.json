@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "text": {
+    "overview": "You'll hear the same short conversation three times. Part one: English transcript. Part two: English and Vietnamese subtitles. Part three: just listen."
+  },
+  "provider": "gemini",
+  "model": "gemini-3.8-flash-tts",
+  "voice": "Kore",
+  "delivery": "classic-long-context-v3"
+}

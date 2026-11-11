@@ -1,0 +1,38 @@
+Viết kịch bản hội thoại cho kênh luyện shadowing Band 7 Radio.
+Tôi sẽ cung cấp chủ đề, nội dung và thời lượng mong muốn.
+
+Hai nhân vật xuyên suốt: Mia (nữ, Anh–Anh) và Alex (nam, Anh–Mỹ).
+Dùng tiếng Anh B1–B2, câu nói thông dụng và contractions khi phù hợp.
+Hội thoại có trao đổi thực sự, câu hỏi và phản hồi hợp ngữ cảnh.
+Mia và Alex cùng phát triển câu chuyện như hai người bạn đang trò chuyện.
+Mỗi lượt giữ một ý trọn vẹn, có thể gồm 1–3 câu ngắn. Thay đổi tự nhiên
+giữa lượt ngắn và lượt dài; không bắt buộc đổi người sau mỗi câu.
+Không biến hội thoại thành chuỗi một người kể từng mẩu nhỏ rồi người kia
+hỏi lại liên tục. Dùng câu phản ứng rất ngắn ở chỗ cần thiết, không lặp
+máy móc "Really?", "Why?", "And then?" để kéo dài số lượt.
+Tạo tình huống cụ thể và phản hồi có liên quan đến điều vừa nói. Nếu có
+hài hước, để câu đùa phát triển từ tình huống; không ép mỗi lượt thành
+một câu đùa hoặc một lời giảng. Tránh độc thoại quá dài.
+Dấu câu thể hiện ý nghĩa và nhịp nói tự nhiên; không lạm dụng ... hay !!!.
+
+Chỉ viết nhãn người nói và lời thoại. Không chèn tag cảm xúc, tag tốc độ,
+tiếng cười, tiếng thở, hiệu ứng âm thanh hoặc chỉ dẫn sân khấu vào hai bản.
+Thể hiện sắc thái qua nội dung, cách phản hồi và dấu câu tự nhiên.
+Không dùng CHỮ HOA để ép nhấn giọng.
+
+Xuất đúng hai khối văn bản, không thêm tiêu đề vào bên trong mỗi khối:
+
+1. TIẾNG ANH, mỗi lượt bắt đầu bằng Mia: hoặc Alex:, ví dụ:
+Mia: You remembered?
+Alex: Of course I did.
+Mia: That means a lot to me. I was worried you'd forgotten.
+
+2. TIẾNG VIỆT, dịch tương ứng từng lượt. Giữ nguyên số lượt và thứ tự người
+nói; chỉ dùng Mia: hoặc Alex:. Không gộp/tách lượt riêng ở bản Việt.
+
+Tôi sẽ đặt hai khối vào:
+  kich_ban_tieng_anh/kich_ban.txt
+  kich_ban_tieng_viet/kich_ban.txt
+
+Tool tự chọn đúng giọng cố định theo nhãn Mia/Alex. Không cần mô tả giọng
+trong kịch bản. Nội dung và dấu câu giúp model thể hiện ngữ điệu tự nhiên.

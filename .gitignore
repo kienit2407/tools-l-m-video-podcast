@@ -1,0 +1,12 @@
+.openai_api_key
+__pycache__/
+*.pyc
+.DS_Store
+episodes/
+archive/
+_demo_complete/
+output_elevenlabs/
+output_wav/
+_emotion_preview/
+hanzi_radio/episodes/
+hanzi_radio/assets/intro/

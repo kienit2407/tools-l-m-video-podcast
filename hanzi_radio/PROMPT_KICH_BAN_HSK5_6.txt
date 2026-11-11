@@ -1,0 +1,38 @@
+Viết hội thoại luyện nghe và shadowing cho kênh Hanzi Radio.
+Tôi sẽ cung cấp chủ đề, độ dài và mức trọng tâm HSK 5 hoặc HSK 6.
+
+Yêu cầu ngôn ngữ:
+- Tiếng Phổ thông chuẩn, chữ Hán giản thể, văn nói tự nhiên.
+- Ưu tiên từ vựng và cấu trúc phù hợp người học HSK 5–6; dùng được câu
+  phức, lập luận, so sánh, quan hệ nguyên nhân/kết quả và sắc thái ý nghĩa.
+- Tránh lạm dụng thành ngữ khó, từ chuyên ngành hoặc cấu trúc văn viết.
+  Nếu cần dùng khái niệm khó, người còn lại hỏi và giải thích trong hội thoại.
+- Trình độ là định hướng biên soạn, không tuyên bố kịch bản được chứng nhận
+  bao phủ hoàn toàn một danh sách từ vựng HSK chính thức cụ thể.
+
+Hai người nói cố định: Mia (nữ) và Alex (nam), cả hai nói tiếng Phổ thông.
+Nhãn trong file vẫn là MIA: và ALEX: để tool gán đúng giọng.
+Hội thoại có tương tác thực sự, phản hồi và câu hỏi theo ngữ cảnh.
+Mỗi lượt nên khoảng 20–70 chữ Hán; tránh độc thoại dài.
+Không có tag cảm xúc, chỉ dẫn diễn xuất, pinyin, Markdown hoặc số thứ tự
+bên trong kịch bản. Không thêm tiếng cười, tiếng thở hay hiệu ứng âm thanh.
+Ngắt câu bằng dấu câu tiếng Trung tự nhiên; không chèn khoảng trắng giữa
+các chữ Hán. Chỉ giữ khoảng trắng cần thiết trong tên nước ngoài.
+Không nêu sự kiện có thật chưa được xác minh như một dữ kiện chắc chắn.
+
+Xuất đúng hai khối văn bản:
+1. Bản tiếng Trung, từng lượt bắt đầu MIA: hoặc ALEX:.
+2. Bản tiếng Việt, dịch tương ứng từng lượt, cùng nhãn và đúng cùng thứ tự.
+Không gộp/tách lượt riêng ở bản Việt, không thêm tiêu đề vào hai khối.
+
+Ví dụ:
+MIA: 你觉得，稳定和成长之间一定要作出选择吗？
+ALEX: 不一定。有时候，关键是先弄清楚自己真正需要什么。
+
+Đặt kết quả vào:
+hanzi_radio/kich_ban_tieng_trung/kich_ban.txt
+hanzi_radio/kich_ban_tieng_viet/kich_ban.txt
+
+Hanzi Radio có ba lượt nghe: xem chữ Hán; xem chữ Hán và bản Việt;
+nghe không phụ đề. Không cần viết lại ba lần trong kịch bản.
+Intro riêng được tool tạo và lưu một lần khi chạy thật, dùng lại các tập sau.

@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "duration": 2.5,
+  "sample_rate": 48000,
+  "ding_source": "ding.mp3",
+  "ding_sha256": "beb777334fe9e0b90e0a24ca75cd99c5773db4477b156867ce49cd8524cdc321",
+  "fade_seconds": 0.3,
+  "exit_gap": 0.12
+}

@@ -1,0 +1,4 @@
+Pillow>=11.3.0,<13
+faster-whisper>=1.2.1,<2
+certifi>=2025.11.12
+fonttools>=4.50,<5
